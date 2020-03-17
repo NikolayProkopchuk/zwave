@@ -1,0 +1,13 @@
+!!io.imont.ferret.client.config.YamlStateRepresentation
+admins: !!set {
+  }
+coordinator: vvtibaro64irsemnesp5jqo55aamv5j3gnpn3rcymp4xb7pe6pna
+identity:
+  keys:
+    1a: akgvaulqvwbxuh7duwz4oytgtbt4iuk2mq
+  hashname: vvtibaro64irsemnesp5jqo55aamv5j3gnpn3rcymp4xb7pe6pna
+  secrets:
+    1a: acpjvszb2itpsglfiolfujgdgm5z7kt2le
+members: !!set {
+  }
+version: 2
